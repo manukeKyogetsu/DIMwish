@@ -1,0 +1,404 @@
+title:weaponKyogetsu
+description:僕が思う強いパークをまとめました
+
+// Supercluster (god-pve)
+//notes: キネ枠スラグで結構強い武器。遺産かこっちで好きな方使いましょう tags:god-pve
+dimwishlist:item=92459755&perks=1523832109,1546637391
+
+
+// Omniscient Eye (god-pve)
+//notes: 多分エネ枠で一番強い砂 tags:god-pve
+dimwishlist:item=147444292&perks=1354429876,555281244
+
+
+// Critical Anomaly (Adept) (pve)
+//notes: めっちゃいいパークは付くものの、フレームに恵まれなかった子。パークは良さげなので、残しておいてもいいと思う tags:pve
+dimwishlist:item=172461430&perks=3418782618,3038247973
+dimwishlist:item=172461430&perks=3418782618,3640170453
+dimwishlist:item=172461430&perks=3418782618,3078487919
+dimwishlist:item=172461430&perks=2978966579,3038247973
+dimwishlist:item=172461430&perks=2978966579,3640170453
+dimwishlist:item=172461430&perks=2978966579,3078487919
+dimwishlist:item=172461430&perks=1523832109,3038247973
+dimwishlist:item=172461430&perks=1523832109,3640170453
+dimwishlist:item=172461430&perks=1523832109,3078487919
+
+
+// Tomorrow's Answer (Adept) (god-pve)
+//notes: 4列目がバイポット囮両方付いてると宇宙 tags:god-pve
+dimwishlist:item=303107619&perks=3987942396,1439600632
+dimwishlist:item=303107619&perks=3987942396,3078487919
+
+
+// Song of Ir Yût (Adept) (god-pve)
+//notes: 割と強いマシンガン。起源特性が近接ビルドと相性がいい tags:god-pve
+dimwishlist:item=407511664&perks=1523832109,31345821
+
+
+// Critical Anomaly (pve)
+//notes: めっちゃいいパークは付くものの、フレームに恵まれなかった子。パークは良さげなので、残しておいてもいいと思う tags:pve
+dimwishlist:item=445197843&perks=3418782618,3038247973
+dimwishlist:item=445197843&perks=3418782618,3640170453
+dimwishlist:item=445197843&perks=3418782618,3078487919
+dimwishlist:item=445197843&perks=2978966579,3038247973
+dimwishlist:item=445197843&perks=2978966579,3640170453
+dimwishlist:item=445197843&perks=2978966579,3078487919
+dimwishlist:item=445197843&perks=1523832109,3038247973
+dimwishlist:item=445197843&perks=1523832109,3640170453
+dimwishlist:item=445197843&perks=1523832109,3078487919
+
+
+// Retraced Path (god-pve)
+//notes: ショトゲ用武器。特殊で特殊を拾いたい、そんな場面がある君に。 tags:god-pve
+dimwishlist:item=548958835&perks=1840239774,2749775325,3700496672,4293542123
+
+
+// Forbearance (god-pve)
+//notes: こっち使ったことないけど多分結構強い tags:god-pve
+dimwishlist:item=568611921&perks=2010801679,2396489472
+
+
+// The Mountaintop (god-pve)
+//notes: 移動も出来るし火力も出る便利武器 tags:god-pve
+dimwishlist:item=568611922&perks=3300816228,469285294
+
+
+// The Mountaintop (pve)
+//notes: なんかめっちゃ移動したい時に使うかもしれない tags:pve
+dimwishlist:item=568611922&perks=951095735,4104185692
+
+
+// Forbearance (god-pve)
+//notes: 今でもパワーがある武器。雑魚処理の王 tags:god-pve
+dimwishlist:item=613334176&perks=3525010810,2822142346,2010801679,2396489472
+
+
+// Wild Style (Adept) (god-pve)
+//notes: ソーラーDPSのお供武器 tags:god-pve
+dimwishlist:item=959037361&perks=1523832109,1546637391
+dimwishlist:item=959037361&perks=1523832109,3078487919
+
+
+// Wild Style (Adept) (pve)
+//notes: どこかで使うかもしれない。オタク以外は砕いてOK tags:pve
+dimwishlist:item=959037361&perks=1523832109,3708227201
+
+
+// Wild Style (Adept) (pve)
+//notes: めっちゃ目潰したい人用。4列目はたぶんなんでもいい tags:pve
+dimwishlist:item=959037361&perks=3032599245,1523832109
+
+
+// IKELOS_SG_v1.0.3 (god-pve)
+//notes: ワンツー界エネ枠部門最強武器。3列目は好み tags:god-pve
+dimwishlist:item=1168625549&perks=1300023272,106909392,4071163871,2679249093
+dimwishlist:item=1168625549&perks=1300023272,106909392,691659142,2679249093
+dimwishlist:item=1168625549&perks=1300023272,106909392,1631667848,2679249093
+dimwishlist:item=1168625549&perks=1047830412,106909392,4071163871,2679249093
+dimwishlist:item=1168625549&perks=1047830412,106909392,691659142,2679249093
+dimwishlist:item=1168625549&perks=1047830412,106909392,1631667848,2679249093
+
+
+// Lost Signal (god-pve)
+//notes: レジェ版ウィザホ tags:god-pve
+dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,1546637391
+
+
+// Lost Signal (pve)
+//notes: 高いところでDPSするならこっちかも tags:pve
+dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,2319119708
+
+
+// Imminence (god-pve)
+//notes: 個人的イチオシSMG。某マルチマーチより自分はこっち推し tags:god-pve
+dimwishlist:item=1258168956&perks=3828510309,3640170453
+dimwishlist:item=1258168956&perks=3828510309,3824105627
+dimwishlist:item=1258168956&perks=3523296417,3640170453
+dimwishlist:item=1258168956&perks=3523296417,3824105627
+
+
+// Perfect Paradox ()
+//notes: ワンツー界最強武器。3列目は好み
+dimwishlist:item=1298672084&perks=4071163871,2679249093
+dimwishlist:item=1298672084&perks=2869569095,2679249093
+dimwishlist:item=1298672084&perks=691659142,2679249093
+
+
+// The Slammer (Adept) (god-pve)
+//notes: 移動用でチャンピオンも止めれる tags:god-pve
+dimwishlist:item=1354727549&perks=2077819806,3650930298
+
+
+// Hung Jury SR4 (god-pve)
+//notes: ショトゲ武器。持っておいて損しない tags:god-pve
+dimwishlist:item=1453235079&perks=3700496672,3038247973
+
+
+// Scintillation (Adept) (god-pve)
+//notes: 現最強リニア。リニア自体は不遇だが、こいつはちゃんと強い tags:god-pve
+dimwishlist:item=1492522228&perks=3418782618,3078487919
+
+
+// Vulpecula (god-pve)
+//notes: ショトゲ界の王。持ってないならBungieに祈ろう tags:god-pve
+dimwishlist:item=1622998472&perks=3700496672,3038247973
+
+
+// Crux Termination IV (god-pve)
+//notes: アーク武器と組み合わせて使えるDPSロケラン tags:god-pve
+dimwishlist:item=1719687748&perks=1523832109,3194351027
+
+
+// Crux Termination IV (pve)
+//notes: 理論値最強のパーク構成。めちゃくちゃネチョネチョしたオタク向け tags:pve
+dimwishlist:item=1719687748&perks=3161816588,3708227201
+dimwishlist:item=1719687748&perks=3161816588,1439600632
+
+
+// VS Chill Inhibitor (god-pve)
+//notes: めちゃつよDPS武器 tags:god-pve
+dimwishlist:item=1762785662&perks=3987942396,3078487919
+
+
+// VS Chill Inhibitor (pve)
+//notes: どっかで使うかもしれないパーク達。オタク以外は砕いてOK tags:pve
+dimwishlist:item=1762785662&perks=3751912585,3708227201
+dimwishlist:item=1762785662&perks=3751912585,3194351027
+dimwishlist:item=1762785662&perks=3987942396,3708227201
+dimwishlist:item=1762785662&perks=3987942396,3194351027
+dimwishlist:item=1762785662&perks=3523296417,3708227201
+dimwishlist:item=1762785662&perks=3523296417,3194351027
+
+
+// VS Velocity Baton (god-pve)
+//notes: アトリションめっちゃオーブ出る tags:god-pve
+dimwishlist:item=1762785663&perks=3523296417,243981275
+
+
+// VS Velocity Baton (pve)
+//notes: 高いところでDPSする時に使うかもしれない tags:pve
+dimwishlist:item=1762785663&perks=3523296417,2319119708
+
+
+// Apex Predator (god-pve)
+//notes: 前ロケラン王者。まだ使い道はあるが、両方のパークがナーフを受けたので以前ほどの輝きは無い。 tags:god-pve
+dimwishlist:item=1851777734&perks=3525010810,3796465595,1523832109,3078487919
+
+
+// Apex Predator (pve)
+//notes: 囮を発動させるローテじゃない時に使える。直近だとソロ目撃者 tags:pve
+dimwishlist:item=1851777734&perks=3525010810,3796465595,1523832109,3194351027
+
+
+// Chronophage (god-pve)
+//notes: ショトゲ用トレース。特殊で特殊を拾いたいそこのあなたに。 tags:god-pve
+dimwishlist:item=1886840007&perks=3700496672,3523296417
+dimwishlist:item=1886840007&perks=3700496672,2048641572
+
+
+// Summum Bonum (Adept) (god-pve)
+//notes: めちゃつよDPS剣
+ tags:god-pve
+dimwishlist:item=2001697739&perks=3666208348,269888150,1749209109,3640170453
+
+
+// Summum Bonum (Adept) (pve)
+//notes: 包囲網が発動すると、剣で最高のDPSが出せる。オタク向け tags:pve
+dimwishlist:item=2001697739&perks=3666208348,1749209109,3708227201
+
+
+// Wicked Sister (god-pve)
+//notes: めちゃつよDPS tags:god-pve
+dimwishlist:item=2039776723&perks=3987942396,3078487919
+
+
+// Wicked Sister (pve)
+//notes: 囮よりは控えめだけど使い道あるかも tags:pve
+dimwishlist:item=2039776723&perks=3987942396,3194351027
+dimwishlist:item=2039776723&perks=3987942396,3751912585
+dimwishlist:item=2039776723&perks=3987942396,2319119708
+
+
+// Warden's Law (god-pve)
+//notes: ラッキーズボン用。3列目は諸説あり tags:god-pve
+dimwishlist:item=2152484073&perks=1354429876,1546637391
+dimwishlist:item=2152484073&perks=3523296417,1546637391
+dimwishlist:item=2152484073&perks=3828510309,1546637391
+
+
+// Aberrant Action (god-pve)
+//notes: ロケピが強いしインカンも強い tags:god-pve
+dimwishlist:item=2198166292&perks=3017780555,4293542123
+
+
+// Tarnished Mettle (god-pve)
+//notes: ショトゲ武器。スカウトの中では一番軽いフレームで扱いやすい。一本持っておきたい tags:god-pve
+dimwishlist:item=2218569744&perks=3700496672,3038247973
+
+
+// Yesterday's Question (god-pve)
+//notes: ラッキーズボン用。3列目は諸説ありだが自分は高速ヒットでいいと思う tags:god-pve
+dimwishlist:item=2300143112&perks=1354429876,1546637391
+dimwishlist:item=2300143112&perks=247725512,1546637391
+
+
+// Yesterday's Question (Adept) (god-pve)
+//notes: ラッキーズボン用。3列目は諸説ありだが自分は高速ヒットでいいと思う tags:god-pve
+dimwishlist:item=2378785953&perks=1354429876,1546637391
+dimwishlist:item=2378785953&perks=247725512,1546637391
+
+
+// Cartesian Coordinate (god-pve)
+//notes: 未だにめちゃ強いフュージョン tags:god-pve
+dimwishlist:item=2481881293&perks=1556840489,1546637391
+
+
+// Scatter Signal (pve)
+//notes: 外さなければ強いDPS用フュージョン。 tags:pve
+dimwishlist:item=2558925366&perks=1840239774,689005463,3643424744,2594592626
+
+
+// Scintillation (god-pve)
+//notes: 現最強リニア。リニア自体は不遇だが、こいつはちゃんと強い tags:god-pve
+dimwishlist:item=2591257541&perks=3418782618,3078487919
+
+
+// Liturgy (god-pve)
+//notes: めっちゃ目潰したい人用 tags:god-pve
+dimwishlist:item=2599338624&perks=3032599245,2039302152,2978966579
+
+
+// Liturgy (pve)
+//notes: アーティファクトとかかけらと噛み合うと使い道ありそう tags:pve
+dimwishlist:item=2599338624&perks=3987942396,2978966579
+
+
+// Bitter/Sweet (god-pve)
+//notes: DPSめちゃつよ武器 tags:god-pve
+dimwishlist:item=2599338625&perks=3987942396,3078487919
+
+
+// Bitter/Sweet (pve)
+//notes: どっかで使うかもしれないパーク。オタク以外は砕いてOK tags:pve
+dimwishlist:item=2599338625&perks=
+
+
+// Riptide (pve)
+//notes: 使用頻度は減ったが、一応持っておいて損はない武器 tags:pve
+dimwishlist:item=2715240478&perks=3300816228,2978966579
+
+
+// Riptide (pve)
+//notes: DPS用フュージョンに割とおすすめ tags:pve
+dimwishlist:item=2715240478&perks=3300816228,1546637391
+
+
+// Zealot's Reward (god-pve)
+//notes: DPS用フュージョン。外さなければ強い tags:god-pve
+dimwishlist:item=2720651699&perks=3300816228,2594592626
+
+
+// Zealot's Reward (pve)
+//notes: 雑魚処理用フュージョン。まあ使うかもしれん tags:pve
+dimwishlist:item=2720651699&perks=3300816228,1427256713
+
+
+// Song of Ir Yût (god-pve)
+//notes: 割と強いマシンガン。近接ビルドと起源特性の相性が良い。 tags:god-pve
+dimwishlist:item=2828278545&perks=1840239774,2420895100,1523832109,31345821
+
+
+// Until Its Return (pve)
+//notes: 結構良いパークが揃ってるキネ枠ショットガン。割とあり tags:pve
+dimwishlist:item=2883484461&perks=3643424744,2360754333
+dimwishlist:item=2883484461&perks=3643424744,1546637391
+dimwishlist:item=2883484461&perks=3643424744,3708227201
+dimwishlist:item=2883484461&perks=3643424744,3751912585
+dimwishlist:item=2883484461&perks=3300816228,2360754333
+dimwishlist:item=2883484461&perks=3300816228,1546637391
+dimwishlist:item=2883484461&perks=3300816228,3708227201
+dimwishlist:item=2883484461&perks=3300816228,3751912585
+
+
+// The Supremacy (god-pve)
+//notes: 雑に使えるお手軽砂 tags:god-pve
+dimwishlist:item=2884596447&perks=1840239774,1087426260,3418782618,3891536761
+
+
+// The Supremacy (pve)
+//notes: ソロ世話人のファイナルスタンドとかやりたい人におすすめ tags:pve
+dimwishlist:item=2884596447&perks=3418782618,1354429876
+
+
+// The Supremacy (pve)
+//notes: なんか強いっぽいけどあんま使わんやつ tags:pve
+dimwishlist:item=2884596447&perks=3418782618,3078487919
+
+
+// The Slammer (god-pve)
+//notes: 移動用でチャンピオンも止めれる tags:god-pve
+dimwishlist:item=2889501828&perks=2077819806,3650930298
+
+
+// Tomorrow's Answer (god-pve)
+//notes: 今ロケランで一番アツい tags:god-pve
+dimwishlist:item=3009199534&perks=3987942396,3078487919
+
+
+// Multimach CCX (pve)
+//notes: 世間で騒がれているが、個人的に使いたい場面がソロ目撃者くらいしか思い浮かばない武器 tags:pve
+dimwishlist:item=3211624072&perks=243981275,3891536761
+
+
+// Warden's Law (Adept) (god-pve)
+//notes: ラッキーズボン用。3列目は諸説あり tags:god-pve
+dimwishlist:item=3250744600&perks=1354429876,1546637391
+dimwishlist:item=3250744600&perks=3828510309,1546637391
+dimwishlist:item=3250744600&perks=3523296417,1546637391
+
+
+// Indebted Kindness (god-pve)
+//notes: ロケピなだけで偉いし使い分け可能。3列目は好み tags:god-pve
+dimwishlist:item=3381450498&perks=951095735,2173046394
+dimwishlist:item=3381450498&perks=1556840489,2173046394
+dimwishlist:item=3381450498&perks=2859149211,2173046394
+
+
+// Indebted Kindness (pve)
+//notes: めちゃくちゃたまにだけど使う。砕いて後悔したくない人用 tags:pve
+dimwishlist:item=3381450498&perks=3708227201
+
+
+// Summum Bonum (god-pve)
+//notes: めちゃつよDPS剣 tags:god-pve
+dimwishlist:item=3569407878&perks=3666208348,269888150,1749209109,3640170453
+
+
+// Summum Bonum (pve)
+//notes: 包囲網が発動すると、剣で最高のDPSが出せる。オタク向け tags:pve
+dimwishlist:item=3569407878&perks=3666208348,269888150,1749209109,3708227201
+
+
+// The Call - あいうえお (god-pve)
+//notes: ロケピが強いしきんなま偉い tags:god-pve
+dimwishlist:item=3947966653&perks=3525010810,106909392,1556840489,4049631843
+
+
+// Imminence (Adept) (god-pve)
+//notes: 個人的イチオシSMG。某マルチマーチより自分はこっち推し tags:god-pve
+dimwishlist:item=3951511045&perks=3828510309,3640170453
+dimwishlist:item=3951511045&perks=3828510309,3824105627
+dimwishlist:item=3951511045&perks=3523296417,3640170453
+dimwishlist:item=3951511045&perks=3523296417,3824105627
+
+
+// Commemoration (god-pve)
+//notes: とりあえずマシンガン持つならこいつ。マシンガンに必要な合格点をオールウェイズ出してくれる tags:god-pve
+dimwishlist:item=4230965989&perks=1840239774,2420895100,1523832109,557221067
+
+
+// Heritage (god-pve)
+//notes: キネ枠スラグで結構強い武器。スーパークラスターかこっちで好きな方使いましょう tags:god-pve
+dimwishlist:item=4248569242&perks=1840239774,791862061,1523832109,469285294
+
+
